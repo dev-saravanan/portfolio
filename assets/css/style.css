@@ -706,7 +706,7 @@ textarea {
   cursor: pointer;
 }
 .tilt3{
-  background-image: url(Images/project-04.jpg);
+  background-image: url('Images/project-04.jpg');
 }
 
 
