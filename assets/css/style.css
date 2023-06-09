@@ -609,6 +609,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
+  background-image: url("Images/project-01.jpg");
   
   /*
     * Adding image to the background
@@ -623,10 +624,6 @@ textarea {
   cursor: pointer;
 }
 
-.tilt{
-  background-image: url(Images/project-01.jpg);
-}
-
 
 
 
@@ -637,6 +634,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
+  background-image: url("Images/project-02.jpg");
   
   /*
     * Adding image to the background
@@ -650,9 +648,6 @@ textarea {
 #tilt1:hover {
   cursor: pointer;
 }
-.tilt1{
-  background-image: url(Images/project-02.jpg);
-}
 
 
 
@@ -665,6 +660,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
+  background-image: url("Images/project-03.png");
   
   /*
     * Adding image to the background
@@ -678,9 +674,6 @@ textarea {
 #tilt2:hover {
   cursor: pointer;
 }
-.tilt2{
-  background-image: url(Images/project-03.png);
-}
 
 
 
@@ -692,6 +685,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
+  background-image: url("Images/project-04.jpg");
   
   /*
     * Adding image to the background
@@ -704,9 +698,6 @@ textarea {
 
 #tilt3:hover {
   cursor: pointer;
-}
-.tilt3{
-  background-image: url('Images/project-04.jpg');
 }
 
 
