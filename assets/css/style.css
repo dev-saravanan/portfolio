@@ -609,7 +609,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
-  background-image: url("style.css/Images/project-01.jpg");
+  background-image: url("../Images/project-01.jpg");
   
   /*
     * Adding image to the background
@@ -634,7 +634,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
-  background-image: url("Images/project-02.jpg");
+  background-image: url("../Images/project-02.jpg");
   
   /*
     * Adding image to the background
@@ -660,7 +660,7 @@ textarea {
   background-color: grey;
   margin: 0 auto;
   transition: box-shadow 0.1s, transform 0.1s;
-  background-image: url("Images/project-03.png");
+  background-image: url("../Images/project-03.png");
   
   /*
     * Adding image to the background
